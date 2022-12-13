@@ -1,5 +1,8 @@
-## Eu sou o Luiz Fernando Calazans, Backend Engineer na Movilepay!
+## Hi there!
+#### My name is Luiz Fernando Calazans and currently I work as Backend Engineer at Movilepay. I have experience working with Java, Kotlin and Typescript, but also complementary tools to improve applications monitoring and support.
+#### Feel free to reach me on my e-mail!
 
+<div align="center">
 <div align="center">
   <a href="https://github.com/luizcalazans16">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizcalazans16&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
